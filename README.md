@@ -3,7 +3,7 @@
 <H1 ALIGN=CENTER> Experiment-2: Implementation of Exact Inference Method of Bayesian Network</H1>
 
 ### Name: Kishore M
-### Register Number:2305002012
+### Register Number: 2305002012
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
